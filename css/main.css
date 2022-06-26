@@ -393,7 +393,7 @@ body{
     margin: 0 auto;
     background-color: #25b89d;
     display: flex;
-    align-items: center;
+    align-items: top;
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 0;
