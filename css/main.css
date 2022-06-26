@@ -399,13 +399,17 @@ body{
     padding: 0;
     padding: 10px;
     list-style-type: none;
+    border-radius: 20px;
 }
 
 .item{
     margin: 0;
     margin-bottom: 20px;
     padding: 20px;
-    border: 1px solid #222;
+    border: 1px solid #00ff08;
+    border-radius: 20px;
+    border-top-left-radius: 190px;
+    border-top-right-radius: 190px;
     list-style-type: none;
     width: 100%;
     max-width: 360px;
